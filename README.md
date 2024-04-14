@@ -6,6 +6,9 @@ Welcome to our Travel Website project! 🌍✈️
 # Description
 This project aims to create a user-friendly travel website where users can explore various destinations, view images, and find useful information about each location.
 
+# To view website 
+https://travel-the-world-around.netlify.app
+
 # Features
 - Browse through a collection of stunning destinations.
 - View high-quality images of each location.
