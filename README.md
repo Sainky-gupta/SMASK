@@ -1,5 +1,28 @@
 # SMASK
 
+# Travel Website Project
+Welcome to our Travel Website project! 🌍✈️
+
+# Description
+This project aims to create a user-friendly travel website where users can explore various destinations, view images, and find useful information about each location.
+
+# Features
+- Browse through a collection of stunning destinations.
+- View high-quality images of each location.
+- Read detailed descriptions and travel guides for each destination.
+- Plan your trip with helpful tips and recommendations.
+
+# Technologies Used
+HTML
+CSS
+JavaScript
+
+# Usage
+Simply open the website in your preferred web browser and start exploring! Click on different destinations to view images and read about them. Use the search bar to find specific locations.
+
+# Screenshot
+
+
 # Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
